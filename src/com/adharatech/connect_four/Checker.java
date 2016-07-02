@@ -16,9 +16,7 @@ public class Checker {
         Red,
         Black,
         None
-    }
-
-    ;
+    };
 
     protected PieceColor myColor;
     protected Circle myBounds;
